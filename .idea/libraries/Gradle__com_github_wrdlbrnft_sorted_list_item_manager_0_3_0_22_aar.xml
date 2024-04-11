@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.wrdlbrnft:sorted-list-item-manager:0.3.0.22@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8f6cf9b42065a152f22017147e82e029/jetified-sorted-list-item-manager-0.3.0.22/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2392a28021e20b33ab5c976716d3114a/jetified-sorted-list-item-manager-0.3.0.22/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c4bef8c5208658948a2eff35d6a9805/jetified-sorted-list-item-manager-0.3.0.22/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8f6cf9b42065a152f22017147e82e029/jetified-sorted-list-item-manager-0.3.0.22/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8f6cf9b42065a152f22017147e82e029/jetified-sorted-list-item-manager-0.3.0.22/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8f6cf9b42065a152f22017147e82e029/jetified-sorted-list-item-manager-0.3.0.22/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/815e7dc554c5eb50dad5e18d82858738/jetified-sorted-list-item-manager-0.3.0.22/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2392a28021e20b33ab5c976716d3114a/jetified-sorted-list-item-manager-0.3.0.22/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2392a28021e20b33ab5c976716d3114a/jetified-sorted-list-item-manager-0.3.0.22/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2392a28021e20b33ab5c976716d3114a/jetified-sorted-list-item-manager-0.3.0.22/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c4bef8c5208658948a2eff35d6a9805/jetified-sorted-list-item-manager-0.3.0.22/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c4bef8c5208658948a2eff35d6a9805/jetified-sorted-list-item-manager-0.3.0.22/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c4bef8c5208658948a2eff35d6a9805/jetified-sorted-list-item-manager-0.3.0.22/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.wrdlbrnft/sorted-list-item-manager/0.3.0.22/f956dbbaf061b04c21c4c41dbc9e7fdf98296416/sorted-list-item-manager-0.3.0.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

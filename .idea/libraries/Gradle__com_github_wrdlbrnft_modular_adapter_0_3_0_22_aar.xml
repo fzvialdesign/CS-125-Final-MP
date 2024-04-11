@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.wrdlbrnft:modular-adapter:0.3.0.22@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dac5ff85f5296eef524f8d15246f386b/jetified-modular-adapter-0.3.0.22/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dac5ff85f5296eef524f8d15246f386b/jetified-modular-adapter-0.3.0.22/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dac5ff85f5296eef524f8d15246f386b/jetified-modular-adapter-0.3.0.22/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b1eb77b21a8dfd583f5815b51a2903f/jetified-modular-adapter-0.3.0.22/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd87192f1ebc5234b6731d3ae0bf26ea/jetified-modular-adapter-0.3.0.22/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd87192f1ebc5234b6731d3ae0bf26ea/jetified-modular-adapter-0.3.0.22/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd87192f1ebc5234b6731d3ae0bf26ea/jetified-modular-adapter-0.3.0.22/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a28dd1e331b4a3ccc84e019cbb44413f/jetified-modular-adapter-0.3.0.22/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a28dd1e331b4a3ccc84e019cbb44413f/jetified-modular-adapter-0.3.0.22/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a28dd1e331b4a3ccc84e019cbb44413f/jetified-modular-adapter-0.3.0.22/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.wrdlbrnft/modular-adapter/0.3.0.22/7682eb6fcb6bfa5a0d7e1d9961c525f05ecfb148/modular-adapter-0.3.0.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

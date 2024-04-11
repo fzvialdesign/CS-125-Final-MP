@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41be58f2-b567-42ef-bb48-bf4390c54b08" name="Default Changelist" comment="Got rid of redundant if-statement" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Fall2020-MP" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jKqHwGUYm2GyEENyZuw8bU5RvM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cesco\OneDrive\Documents\MP-Fall2020-fvial2\app\src\main\res\layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Checkstyle">
+    <configuration name="MP2Test$IntegrationTests.testRatingView" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fall2020-MP.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.illinois.cs.cs125.fall2020.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.illinois.cs.cs125.fall2020.mp" />
+      <option name="MAIN_CLASS_NAME" value="edu.illinois.cs.cs125.fall2020.mp.MP2Test$IntegrationTests" />
+      <option name="METHOD_NAME" value="testRatingView" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MP2Test$UnitTests.testServerGetRating" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fall2020-MP.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.illinois.cs.cs125.fall2020.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.illinois.cs.cs125.fall2020.mp" />
+      <option name="MAIN_CLASS_NAME" value="edu.illinois.cs.cs125.fall2020.mp.MP2Test$UnitTests" />
+      <option name="METHOD_NAME" value="testServerGetRating" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MP2Test$UnitTests.testServerPostRating" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fall2020-MP.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.illinois.cs.cs125.fall2020.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.illinois.cs.cs125.fall2020.mp" />
+      <option name="MAIN_CLASS_NAME" value="edu.illinois.cs.cs125.fall2020.mp.MP2Test$UnitTests" />
+      <option name="METHOD_NAME" value="testServerPostRating" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.Run App" />
+      <item itemvalue="Android JUnit.Test MP0" />
+      <item itemvalue="Android JUnit.Test MP1" />
+      <item itemvalue="Android JUnit.Test MP2" />
+      <item itemvalue="Android JUnit.MP2Test$IntegrationTests.testRatingView" />
+      <item itemvalue="Android JUnit.MP2Test$UnitTests.testServerGetRating" />
+      <item itemvalue="Android JUnit.MP2Test$UnitTests.testServerPostRating" />
+      <item itemvalue="Gradle.Checkstyle" />
+      <item itemvalue="Gradle.Format" />
+      <item itemvalue="Gradle.Grade" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.MP2Test$IntegrationTests.testRatingView" />
+        <item itemvalue="Android JUnit.MP2Test$UnitTests.testServerPostRating" />
+        <item itemvalue="Android JUnit.MP2Test$UnitTests.testServerGetRating" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41be58f2-b567-42ef-bb48-bf4390c54b08" name="Default Changelist" comment="" />
+      <created>1603563046825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603563046825</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added MP1Test.java and changed checkpoint to 1">
+      <created>1604743168821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604743168821</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Set up MP1Test.java and created CourseActivity.java">
+      <created>1604745131733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604745131733</updated>
+    </task>
+    <task id="LOCAL-00003" summary="getDescription returns description (does not yet work)">
+      <created>1604791748888</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604791748888</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added empty Course constructor">
+      <created>1604792913751</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604792913751</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added comment for checkstyle points">
+      <created>1604793040694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604793040694</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Began process of mimicking Summary lines of code for Course">
+      <created>1604794642032</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604794642032</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Made a few fixes and &quot;uncommented&quot; the testServerCourseRoute method">
+      <created>1604794984597</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604794984597</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changed courses.get() argument (should work hopefully)">
+      <created>1604796264134</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604796264134</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Started on Client.java and added code so it would compile with official grader">
+      <created>1604800549899</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604800549899</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Trying to make getCourse to work (not finished yet)">
+      <created>1604802135760</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604802135760</updated>
+    </task>
+    <task id="LOCAL-00011" summary="getCourse now works on the Client.java file">
+      <created>1604988357717</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604988357717</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Nearly finished with the last two tests">
+      <created>1605331043812</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605331043812</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Forgot to implement Client.CourseClientCallbacks in CourseActivity. Should now work">
+      <created>1605331705801</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605331705801</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fixed checkstyle errors">
+      <created>1605332278491</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605332278491</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Major bug fixes applied to properly display course descriptions when clicked">
+      <created>1606285186865</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606285186865</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Implemented initial modifications">
+      <created>1606336428040</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606336428040</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fixed some checkstyle errors">
+      <created>1606339162919</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606339162919</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Started work on UUID">
+      <created>1606345256689</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1606345256689</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Made some changes to the layout (including rating bar)">
+      <created>1606593571966</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1606593571966</updated>
+    </task>
+    <task id="LOCAL-00020" summary="testServerGetRating in progress">
+      <created>1606635072953</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1606635072953</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Finished testServerGetRating">
+      <created>1606640651719</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1606640651719</updated>
+    </task>
+    <task id="LOCAL-00022" summary="testServerPostRequest in progress">
+      <created>1606641007658</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1606641007658</updated>
+    </task>
+    <task id="LOCAL-00023" summary="testServerPostRequest still in progress">
+      <created>1606688836643</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1606688836643</updated>
+    </task>
+    <task id="LOCAL-00024" summary="testServerPostRequest now functions as intended">
+      <created>1606699856302</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1606699856302</updated>
+    </task>
+    <task id="LOCAL-00025" summary="testClientGetRating now functions as intended">
+      <created>1606959522008</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1606959522008</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Fixed some checkstyle issues">
+      <created>1606960544651</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1606960544651</updated>
+    </task>
+    <task id="LOCAL-00027" summary="testClientPostRating now functions as intended">
+      <created>1606965527449</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1606965527449</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Working on testRatingView">
+      <created>1607123606020</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1607123606020</updated>
+    </task>
+    <task id="LOCAL-00029" summary="testRatingView now functions as intended + bug fixes">
+      <created>1607132183314</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1607132183314</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Got rid of redundant if-statement">
+      <created>1607132404371</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1607132404371</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Began process of mimicking Summary lines of code for Course" />
+    <MESSAGE value="Made a few fixes and &quot;uncommented&quot; the testServerCourseRoute method" />
+    <MESSAGE value="Changed courses.get() argument (should work hopefully)" />
+    <MESSAGE value="Started on Client.java and added code so it would compile with official grader" />
+    <MESSAGE value="Trying to make getCourse to work (not finished yet)" />
+    <MESSAGE value="getCourse now works on the Client.java file" />
+    <MESSAGE value="Nearly finished with the last two tests" />
+    <MESSAGE value="Forgot to implement Client.CourseClientCallbacks in CourseActivity. Should now work" />
+    <MESSAGE value="Fixed checkstyle errors" />
+    <MESSAGE value="Major bug fixes applied to properly display course descriptions when clicked" />
+    <MESSAGE value="Implemented initial modifications" />
+    <MESSAGE value="Fixed some checkstyle errors" />
+    <MESSAGE value="Started work on UUID" />
+    <MESSAGE value="Made some changes to the layout (including rating bar)" />
+    <MESSAGE value="testServerGetRating in progress" />
+    <MESSAGE value="Finished testServerGetRating" />
+    <MESSAGE value="testServerPostRequest in progress" />
+    <MESSAGE value="testServerPostRequest still in progress" />
+    <MESSAGE value="testServerPostRequest now functions as intended" />
+    <MESSAGE value="testClientGetRating now functions as intended" />
+    <MESSAGE value="Fixed some checkstyle issues" />
+    <MESSAGE value="testClientPostRating now functions as intended" />
+    <MESSAGE value="Working on testRatingView" />
+    <MESSAGE value="testRatingView now functions as intended + bug fixes" />
+    <MESSAGE value="Got rid of redundant if-statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Got rid of redundant if-statement" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="563" y="159" key="#MP1Test" timestamp="1604744974125">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="563" y="159" key="#MP1Test/0.0.1920.1080@0.0.1920.1080" timestamp="1604744974125" />
+    <state x="1172" y="132" key="#Run_App" timestamp="1605317663940">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1172" y="132" key="#Run_App/0.0.1920.1080@0.0.1920.1080" timestamp="1605317663940" />
+    <state x="816" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606335753296">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="816" y="166" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606335753296" />
+    <state x="92" y="92" width="1736" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1607129415949">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607129415949" />
+    <state x="765" y="247" key="#com.intellij.ide.util.MemberChooser" timestamp="1607110859434">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="247" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1607110859434" />
+    <state x="1209" y="412" width="464" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604208990166">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1209" y="412" width="464" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1604208990166" />
+    <state x="1191" y="400" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605318723885">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1191" y="400" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1605318723885" />
+    <state x="92" y="92" width="1736" height="896" key="AVDManager" timestamp="1605319087066">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="AVDManager/0.0.1920.1080@0.0.1920.1080" timestamp="1605319087066" />
+    <state width="1881" height="293" key="GridCell.Tab.0.bottom" timestamp="1607133751082">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1881" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607133751082" />
+    <state width="1881" height="293" key="GridCell.Tab.0.center" timestamp="1607133751082">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1881" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607133751082" />
+    <state width="1881" height="293" key="GridCell.Tab.0.left" timestamp="1607133751082">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1881" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607133751082" />
+    <state width="1881" height="293" key="GridCell.Tab.0.right" timestamp="1607133751082">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1881" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607133751082" />
+    <state x="686" y="29" key="SettingsEditor" timestamp="1607128841190">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="686" y="29" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1607128841190" />
+    <state x="1032" y="276" key="Vcs.Push.Dialog.v2" timestamp="1607132406503">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1032" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607132406503" />
+    <state x="769" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607107288213">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="769" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1607107288213" />
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1607128836687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1607128836687" />
+    <state x="1162" y="452" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1604208401427">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1162" y="452" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1604208401427" />
+  </component>
+</project>

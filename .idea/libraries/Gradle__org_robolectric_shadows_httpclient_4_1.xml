@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.robolectric:shadows-httpclient:4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/shadows-httpclient/4.1/9c10623787780fe25589671ffcf354176f5cdda2/shadows-httpclient-4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/shadows-httpclient/4.1/12043567737ec56a23c4b034c95aab81ff675fb5/shadows-httpclient-4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/shadows-httpclient/4.1/660e78a16b396b36f3f653fb933852593d29f7b9/shadows-httpclient-4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
